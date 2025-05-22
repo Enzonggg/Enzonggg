@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lorenzo Aurin aspiring Frontend Developer</h2>
+<h2 align="left">Hi 👋! My name is Lorenzo Aurin Aspiring Frontend Developer</h2>
 
 ###
 
