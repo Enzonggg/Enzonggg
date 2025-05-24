@@ -3,7 +3,7 @@
   <a href="https://github.com/Enzonggg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Frontend+Developer;%20Enthusiast;Web%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a 2nd year IT studet. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a 2nd year IT student. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 ###
