@@ -1,8 +1,14 @@
-<h2 align="left">Hi 👋! My name is Lorenzo Aurin aspiring Frontend Developer</h2>
+<h1 align="center">Hi , I'm Enzonggg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/Enzonggg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Frontend+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Web%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">I am a 2nd year IT studet. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br>
 
 ###
 
-<img align="right" height="150" src="pogi.gif"  />
+
 
 ###
 
