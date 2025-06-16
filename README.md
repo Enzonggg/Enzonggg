@@ -81,5 +81,6 @@
 
 <hr/>
 ###
+![snake gif](https://github.com/Enzonggg/Enzonggg/blob/output/github-snake-dark.svg)
 
 
