@@ -76,11 +76,11 @@
 	<a href="https://linkedin.com/in/lorenzo-aurin-74292b356"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/lorenzo.aurin.2025"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/enzonggg_31"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
+
+ ![snake gif](https://github.com/Enzonggg/Enzonggg/blob/output/github-snake.svg)
 </p>
 
 <hr/>
-![snake gif](https://github.com/Enzonggg/Enzonggg/blob/output/github-snake.svg)
 
 ###
 
