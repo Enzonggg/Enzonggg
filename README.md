@@ -5,6 +5,10 @@
 <hr/>
 <h4 align="center">I am  a IT student. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
+<div>
+  <img width="1000" height="300" alt="image" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" />
+</div>
+
 
 ###
 
