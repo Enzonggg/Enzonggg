@@ -27,15 +27,14 @@
   <!-- 📱 Mobile Development -->
   <tr><th colspan="6" align="center">📱 Mobile Development</th></tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React Native</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/expo/000020" width="40"><br>Expo</td>
-    <td align="center"><img src="https://cdn.simpleicons.org/unity/000000" width="40"><br>Unity</td>
+     <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="40"><br>Dart</td>
+     <td align="center"><img src="https://cdn.simpleicons.org/flutter" width="40"><br>Flutter</td>
   </tr>
 
   <!-- 🧠 Back-End -->
   <tr><th colspan="8" align="center">🧠 Back-End</th></tr>
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40"><br>C#</td>
+	<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40"><br>Supabase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"><br>Flask</td>
