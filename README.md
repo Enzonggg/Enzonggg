@@ -9,11 +9,48 @@
   <img width="1000" height="300" alt="image" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" />
 </div>
 
-
 ###
+<!-- 🛠️ Tech Stack -->
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<table align="center">
+  <!-- 🌐 Front-End -->
+  <tr><th colspan="8" align="center">🌐 Front-End</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40"><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
+  </tr>
+
+  <!-- 📱 Mobile Development -->
+  <tr><th colspan="6" align="center">📱 Mobile Development</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React Native</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/expo/000020" width="40"><br>Expo</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/unity/000000" width="40"><br>Unity</td>
+  </tr>
+
+  <!-- 🧠 Back-End -->
+  <tr><th colspan="8" align="center">🧠 Back-End</th></tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="40"><br>C#</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40"><br>Supabase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"><br>Flask</td>
+   
+  </tr>
+
+  <!-- 🗄️ Databases -->
+  <tr><th colspan="5" align="center">🗄️ Databases</th></tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"><br>MS SQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"><br>SQLite</td>
+  </tr>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Enzonggg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Enzonggg&theme=dark&hide_border=false)<br/>
