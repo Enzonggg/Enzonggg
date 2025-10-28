@@ -22,6 +22,7 @@
     <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40"><br>Bootstrap</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
+	<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="40"><br>Angular</td>
   </tr>
 
   <!-- 📱 Mobile Development -->
