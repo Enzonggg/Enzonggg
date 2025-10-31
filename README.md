@@ -35,7 +35,6 @@
   <!-- 🧠 Back-End -->
   <tr><th colspan="8" align="center">🧠 Back-End</th></tr>
   <tr>
-	<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="40"><br>C#</td>
 	<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40"><br>Supabase</td>
