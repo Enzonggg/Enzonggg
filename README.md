@@ -51,6 +51,16 @@
   </tr>
 </table>
 
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Enzonggg&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+  <br/>
+  <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=Enzonggg&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days" alt="GitHub Activity" />
+  <br/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Enzonggg&hide=HTML&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+</div>
 
 
 
