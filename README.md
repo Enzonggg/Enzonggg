@@ -23,6 +23,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
 	<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="40"><br>Angular</td>
+	<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td> 
   </tr>
 
   <!-- 📱 Mobile Development -->
