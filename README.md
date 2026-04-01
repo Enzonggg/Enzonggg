@@ -37,7 +37,6 @@
   <tr>
 	<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40"><br>Supabase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"><br>Flask</td>
    
   </tr>
