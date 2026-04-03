@@ -49,6 +49,7 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"><br>MySQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"><br>MS SQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"><br>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase</td>
   </tr>
 </table>
 
