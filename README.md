@@ -32,6 +32,8 @@
   <tr>
      <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="40"><br>Dart</td>
      <td align="center"><img src="https://cdn.simpleicons.org/flutter" width="40"><br>Flutter</td>
+	 <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="40"><br>Kotlin</td>
+	
   </tr>
 
   <!-- 🧠 Back-End -->
@@ -40,6 +42,9 @@
 	<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"><br>Flask</td>
+	<td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="40"><br>Laravel</td>
+	
+	
    
   </tr>
 
