@@ -1,15 +1,20 @@
-<h1 align="center">Hi , I'm Enzonggg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/Enzonggg/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Software+Developer;%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">I am  a IT student. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
-<div>
-  <img width="1000" height="300" alt="image" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" />
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
+
+I'm Lorenzo Aurin😉, Full Stack Developer 👨🏻‍💻 from Philippines. 
+
+### Current Status Quo:
+
+- 💼 I’m pursuing a <strong>Bachelor of Science in Information Technology</strong>.
+- 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> Industry.
+- 💬 Feel free to discuss with me about <strong> Web Development, NFT Projects</strong>
+- 👀 See my [Personal Portfolio](https://portfolio4-beta.vercel.app/) to get more info
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Lorenzo+Aurin;Full+Stack+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
+<div align="center">
+  <img width="300px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 </div>
 
-###
+<br/>
 <!-- 🛠️ Tech Stack -->
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -157,6 +162,22 @@
       alt="selenium"/>
   </a>
 </p>
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/Enzonggg" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/Enzonggg" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+</p>
+
+
 <h3 align="center">Cloud & Hosting</h3>
 <p align="center">
 
@@ -188,6 +209,39 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"
       alt="firebase"/>
+  </a>
+
+</p>
+<h3 align="center">Preferred IDEs & Tools</h3>
+<p align="center"> 
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+      alt="vscode"/> 
+  </a>
+
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
+      alt="visual studio"/> 
+  </a>
+
+  <a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"
+      alt="netbeans"/> 
+  </a>
+   <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white"
+      alt="android studio"/> 
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
+      alt="figma"/> 
+  </a>
+
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Virtual_Machine-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="virtual machine"/>
   </a>
 
 </p>
