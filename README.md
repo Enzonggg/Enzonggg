@@ -76,11 +76,6 @@ I'm Lorenzo Aurin😉, Full Stack Developer 👨🏻‍💻 from Philippines.
       alt="angular"/>
   </a>
 
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
-
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
@@ -104,12 +99,7 @@ I'm Lorenzo Aurin😉, Full Stack Developer 👨🏻‍💻 from Philippines.
     <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"
       alt="flask"/> 
   </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"
-      alt="fastapi"/> 
-  </a>
-
+  
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
